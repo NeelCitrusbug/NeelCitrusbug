@@ -38,7 +38,7 @@ I've had the privilege of working on several exciting projects. Here are a coupl
 
 I'm always eager to connect with fellow developers, tech enthusiasts, and like-minded individuals. Feel free to reach out through the following channels:
 
-- LinkedIn: [Neel Shah](linkedin.com/in/neel-shah-69225321a)
+- LinkedIn: [Neel Shah](https://linkedin.com/in/neel-shah-69225321a)
 - Email: **neel.citrusbug@gmail.com**
 
 ## ⚡ Fun Fact
